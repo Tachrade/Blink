@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Blink.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Blink.git/static/js/main.61411964.chunk.js",
-    "main.js.map": "/Blink.git/static/js/main.61411964.chunk.js.map",
-    "runtime-main.js": "/Blink.git/static/js/runtime-main.67270e5c.js",
-    "runtime-main.js.map": "/Blink.git/static/js/runtime-main.67270e5c.js.map",
-    "static/js/2.fbadc43e.chunk.js": "/Blink.git/static/js/2.fbadc43e.chunk.js",
-    "static/js/2.fbadc43e.chunk.js.map": "/Blink.git/static/js/2.fbadc43e.chunk.js.map",
-    "index.html": "/Blink.git/index.html",
-    "precache-manifest.4d82bfec1d9948163cb30e5b2b582c36.js": "/Blink.git/precache-manifest.4d82bfec1d9948163cb30e5b2b582c36.js",
-    "service-worker.js": "/Blink.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Blink.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.fbadc43e.chunk.js.LICENSE.txt": "/Blink.git/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
+    "main.css": "/Tachrade/BlinkApp.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Tachrade/BlinkApp.git/static/js/main.255b609d.chunk.js",
+    "main.js.map": "/Tachrade/BlinkApp.git/static/js/main.255b609d.chunk.js.map",
+    "runtime-main.js": "/Tachrade/BlinkApp.git/static/js/runtime-main.ffa45ca2.js",
+    "runtime-main.js.map": "/Tachrade/BlinkApp.git/static/js/runtime-main.ffa45ca2.js.map",
+    "static/js/2.fbadc43e.chunk.js": "/Tachrade/BlinkApp.git/static/js/2.fbadc43e.chunk.js",
+    "static/js/2.fbadc43e.chunk.js.map": "/Tachrade/BlinkApp.git/static/js/2.fbadc43e.chunk.js.map",
+    "index.html": "/Tachrade/BlinkApp.git/index.html",
+    "precache-manifest.7d619be3ad4411883c664e077ce4870b.js": "/Tachrade/BlinkApp.git/precache-manifest.7d619be3ad4411883c664e077ce4870b.js",
+    "service-worker.js": "/Tachrade/BlinkApp.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Tachrade/BlinkApp.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fbadc43e.chunk.js.LICENSE.txt": "/Tachrade/BlinkApp.git/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67270e5c.js",
+    "static/js/runtime-main.ffa45ca2.js",
     "static/js/2.fbadc43e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.61411964.chunk.js"
+    "static/js/main.255b609d.chunk.js"
   ]
 }
