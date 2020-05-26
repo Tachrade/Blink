@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blink.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Blink.git/static/js/main.4d60cbef.chunk.js",
+    "main.js.map": "/Blink.git/static/js/main.4d60cbef.chunk.js.map",
+    "runtime-main.js": "/Blink.git/static/js/runtime-main.67270e5c.js",
+    "runtime-main.js.map": "/Blink.git/static/js/runtime-main.67270e5c.js.map",
+    "static/js/2.fbadc43e.chunk.js": "/Blink.git/static/js/2.fbadc43e.chunk.js",
+    "static/js/2.fbadc43e.chunk.js.map": "/Blink.git/static/js/2.fbadc43e.chunk.js.map",
+    "index.html": "/Blink.git/index.html",
+    "precache-manifest.9588992bd7dc92e1e9794669dcf5b999.js": "/Blink.git/precache-manifest.9588992bd7dc92e1e9794669dcf5b999.js",
+    "service-worker.js": "/Blink.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Blink.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fbadc43e.chunk.js.LICENSE.txt": "/Blink.git/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67270e5c.js",
+    "static/js/2.fbadc43e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4d60cbef.chunk.js"
+  ]
+}
