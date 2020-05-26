@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Tachrade/BlinkApp.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Tachrade/BlinkApp.git/static/js/main.255b609d.chunk.js",
-    "main.js.map": "/Tachrade/BlinkApp.git/static/js/main.255b609d.chunk.js.map",
-    "runtime-main.js": "/Tachrade/BlinkApp.git/static/js/runtime-main.ffa45ca2.js",
-    "runtime-main.js.map": "/Tachrade/BlinkApp.git/static/js/runtime-main.ffa45ca2.js.map",
-    "static/js/2.fbadc43e.chunk.js": "/Tachrade/BlinkApp.git/static/js/2.fbadc43e.chunk.js",
-    "static/js/2.fbadc43e.chunk.js.map": "/Tachrade/BlinkApp.git/static/js/2.fbadc43e.chunk.js.map",
-    "index.html": "/Tachrade/BlinkApp.git/index.html",
-    "precache-manifest.7d619be3ad4411883c664e077ce4870b.js": "/Tachrade/BlinkApp.git/precache-manifest.7d619be3ad4411883c664e077ce4870b.js",
-    "service-worker.js": "/Tachrade/BlinkApp.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Tachrade/BlinkApp.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.fbadc43e.chunk.js.LICENSE.txt": "/Tachrade/BlinkApp.git/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
+    "main.css": "/Blink/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Blink/static/js/main.afba40a4.chunk.js",
+    "main.js.map": "/Blink/static/js/main.afba40a4.chunk.js.map",
+    "runtime-main.js": "/Blink/static/js/runtime-main.2d2d772b.js",
+    "runtime-main.js.map": "/Blink/static/js/runtime-main.2d2d772b.js.map",
+    "static/js/2.fbadc43e.chunk.js": "/Blink/static/js/2.fbadc43e.chunk.js",
+    "static/js/2.fbadc43e.chunk.js.map": "/Blink/static/js/2.fbadc43e.chunk.js.map",
+    "index.html": "/Blink/index.html",
+    "precache-manifest.1374d0b3aa4f356a5b65b5808aaf8281.js": "/Blink/precache-manifest.1374d0b3aa4f356a5b65b5808aaf8281.js",
+    "service-worker.js": "/Blink/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Blink/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fbadc43e.chunk.js.LICENSE.txt": "/Blink/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffa45ca2.js",
+    "static/js/runtime-main.2d2d772b.js",
     "static/js/2.fbadc43e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.255b609d.chunk.js"
+    "static/js/main.afba40a4.chunk.js"
   ]
 }
