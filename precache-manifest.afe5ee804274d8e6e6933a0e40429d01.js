@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0bda8e2d6eb3404c7a14b2bab35cd09",
+    "revision": "1a3bf8dc770cf0f71c9f133e9ff616c3",
     "url": "/Blink/index.html"
   },
   {
-    "revision": "c05bc4a68b1d590b2a5d",
+    "revision": "32a83437cc4aaeb87dd8",
     "url": "/Blink/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Blink/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c05bc4a68b1d590b2a5d",
-    "url": "/Blink/static/js/main.a0e08617.chunk.js"
+    "revision": "32a83437cc4aaeb87dd8",
+    "url": "/Blink/static/js/main.b03f1e58.chunk.js"
   },
   {
     "revision": "8e4931841ce85c038853",
