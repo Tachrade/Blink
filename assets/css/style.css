@@ -1218,7 +1218,7 @@
  
  .table {
    width: 100%;
-   margin-bottom: 1rem;
+   margin-bottom: 0px;
    color: #869ab8; }
    .table th,
    .table td {
@@ -2611,10 +2611,14 @@
    .input-group > .form-control-plaintext,
    .input-group > .custom-select,
    .input-group > .custom-file {
-     position: relative;
+     /* position: relative;
      flex: 1 1 auto;
      width: 1%;
-     margin-bottom: 0; }
+     margin-bottom: 0; } */
+     position: relative;
+     width: 50%;
+     margin-bottom: 0;
+    }
      .input-group > .form-control + .form-control,
      .input-group > .form-control + .custom-select,
      .input-group > .form-control + .custom-file,
@@ -3130,7 +3134,8 @@
    display: none; }
  
  .tab-content > .active {
-   display: block; }
+  display: block;
+  width: 105%; }
  
  .navbar {
    position: relative;
@@ -8242,15 +8247,15 @@
      margin-bottom: 0px;
      font-weight: 600; }
    .card .card-body {
-     padding: 30px 0px;
+     padding: 17px 0px;
      background: transparent;
      border-radius: 15px; }
      @media only screen and (min-width: 1200px) {
        .card .card-body {
-         padding: 30px; } }
+         padding: 17px; } }
      @media only screen and (min-width: 1200px) and (max-width: 1350px) {
        .card .card-body {
-         padding: 30px 0px !important; } }
+         padding: 17px 0px !important; } }
  
  .form-group {
    margin-bottom: 30px;
