@@ -16,11 +16,11 @@
 */
  @import url(./assets/vendor/nice-select/css/nice-select.css);
  @import url("https://fonts.googleapis.com/css?family=Nunito:400,600,700&amp;display=swap");
- @import url("./assets/icons/line-awesome/css/line-awesome.min.css");
- @import url("./assets/icons/font-awesome/css/font-awesome.min.css");
- @import url("./assets/icons/cryptocoins/css/cryptocoins.css");
- @import url("./assets/icons/cryptocoins/css/cryptocoins-colors.css");
- @import url("./assets/icons/material-design-iconic-font/css/materialdesignicons.min.css");
+ @import url("./assets/css/icons/line-awesome/css/line-awesome.min.css");
+ @import url("./assets/css/icons/font-awesome/css/font-awesome.min.css");
+ @import url("./assets/css/icons/cryptocoins/css/cryptocoins.css");
+ @import url("./assets/css/icons/cryptocoins/css/cryptocoins-colors.css");
+ @import url("./assets/css/icons/material-design-iconic-font/css/materialdesignicons.min.css");
  :root {
    --blue: #5e72e4;
    --indigo: #6610f2;
