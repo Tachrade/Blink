@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/Blink/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Blink/static/js/main.74bd53b7.chunk.js",
-    "main.js.map": "/Blink/static/js/main.74bd53b7.chunk.js.map",
+    "main.js": "/Blink/static/js/main.b46fec54.chunk.js",
+    "main.js.map": "/Blink/static/js/main.b46fec54.chunk.js.map",
     "runtime-main.js": "/Blink/static/js/runtime-main.2d2d772b.js",
     "runtime-main.js.map": "/Blink/static/js/runtime-main.2d2d772b.js.map",
-    "static/js/2.fbadc43e.chunk.js": "/Blink/static/js/2.fbadc43e.chunk.js",
-    "static/js/2.fbadc43e.chunk.js.map": "/Blink/static/js/2.fbadc43e.chunk.js.map",
+    "static/js/2.f437b2d2.chunk.js": "/Blink/static/js/2.f437b2d2.chunk.js",
+    "static/js/2.f437b2d2.chunk.js.map": "/Blink/static/js/2.f437b2d2.chunk.js.map",
     "index.html": "/Blink/index.html",
-    "precache-manifest.731c6a1990a2b5af70d9bc4a0db1a15c.js": "/Blink/precache-manifest.731c6a1990a2b5af70d9bc4a0db1a15c.js",
+    "precache-manifest.820fe3c3fd342b76bc7d7714b6982759.js": "/Blink/precache-manifest.820fe3c3fd342b76bc7d7714b6982759.js",
     "service-worker.js": "/Blink/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Blink/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.fbadc43e.chunk.js.LICENSE.txt": "/Blink/static/js/2.fbadc43e.chunk.js.LICENSE.txt"
+    "static/js/2.f437b2d2.chunk.js.LICENSE.txt": "/Blink/static/js/2.f437b2d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d2d772b.js",
-    "static/js/2.fbadc43e.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.74bd53b7.chunk.js"
+    "static/js/2.f437b2d2.chunk.js",
+    "static/js/main.b46fec54.chunk.js"
   ]
 }
