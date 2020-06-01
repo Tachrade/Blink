@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a36188a41c7c879f82e3af87b9c453dc",
+    "revision": "4d54abe7e6d4d506380dd4e81ce924e4",
     "url": "/Blink/index.html"
   },
   {

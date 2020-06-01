@@ -8508,6 +8508,7 @@
  .nice-select {
    display: flex;
    align-items: center; }
+   
    .nice-select ul {
      width: 100% !important; }
  
