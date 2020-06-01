@@ -8210,7 +8210,7 @@
    .footer .copyright p {
      margin: 0;
      font-size: 14px;
-     color: #FDC727; }
+     color: #fff; }
      .footer .copyright p a {
        color: #581948;
        font-weight: 700; }
@@ -8219,7 +8219,7 @@
      .footer .footer-social li {
        display: inline-block; }
        .footer .footer-social li a {
-         color: #FDC727;
+         color: #fff;
          padding: 0px 10px; }
    .footer .social a {
      display: inline-block;
@@ -8508,7 +8508,7 @@
  .nice-select {
    display: flex;
    align-items: center; }
-   
+
    .nice-select ul {
      width: 100% !important; }
  
