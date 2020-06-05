@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.fae61f32.chunk.js",
-    "main.js.map": "/static/js/main.fae61f32.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ad7bb390.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ad7bb390.js.map",
-    "static/js/2.ecd5b281.chunk.js": "/static/js/2.ecd5b281.chunk.js",
-    "static/js/2.ecd5b281.chunk.js.map": "/static/js/2.ecd5b281.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6025a8aaca97116fbbca871bf11309f9.js": "/precache-manifest.6025a8aaca97116fbbca871bf11309f9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.ecd5b281.chunk.js.LICENSE.txt": "/static/js/2.ecd5b281.chunk.js.LICENSE.txt"
+    "main.js": "/Blink/static/js/main.9d361cf7.chunk.js",
+    "main.js.map": "/Blink/static/js/main.9d361cf7.chunk.js.map",
+    "runtime-main.js": "/Blink/static/js/runtime-main.2d2d772b.js",
+    "runtime-main.js.map": "/Blink/static/js/runtime-main.2d2d772b.js.map",
+    "static/js/2.ecd5b281.chunk.js": "/Blink/static/js/2.ecd5b281.chunk.js",
+    "static/js/2.ecd5b281.chunk.js.map": "/Blink/static/js/2.ecd5b281.chunk.js.map",
+    "index.html": "/Blink/index.html",
+    "precache-manifest.cae8adbab4cf30c9b6fb7bbb32fba740.js": "/Blink/precache-manifest.cae8adbab4cf30c9b6fb7bbb32fba740.js",
+    "service-worker.js": "/Blink/service-worker.js",
+    "static/js/2.ecd5b281.chunk.js.LICENSE.txt": "/Blink/static/js/2.ecd5b281.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad7bb390.js",
+    "static/js/runtime-main.2d2d772b.js",
     "static/js/2.ecd5b281.chunk.js",
-    "static/js/main.fae61f32.chunk.js"
+    "static/js/main.9d361cf7.chunk.js"
   ]
 }
