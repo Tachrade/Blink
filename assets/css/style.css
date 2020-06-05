@@ -127,6 +127,12 @@
        text-align: center;
       
      }
+     .thtd{
+      padding:10PX;
+      font-size:12px;
+      padding-right:20px;}
+        
+    
    
    
    @import url(https://fonts.googleapis.com/css?family=Roboto:500);
@@ -7680,7 +7686,8 @@
  
  .content-body {
    margin-left: 75px;
-   margin-top: 15px; }
+   margin-top: 15px; 
+   padding-bottom: 100px;}
  
  .container-fluid {
    max-width: 95%; }
@@ -8156,7 +8163,8 @@
    left: 0;
    height: 100%;
    width: 75px;
-   top: 0; }
+   top: 0; 
+   padding-top: 30px;}
  
  .menu {
    margin-top: 100px; }
@@ -8539,7 +8547,7 @@
    border-collapse: separate;
    border-spacing: 0 1rem; }
    .table tr td,
-   .table tr th {
+   .table tr th thead {
      background: #F2F6FE;
      border: 0px;
      vertical-align: middle; }
@@ -9367,7 +9375,7 @@
      margin-bottom: 15px; }
  
  .verification {
-   height: 100vh; }
+  padding-top: 0px; }
  
  .identity-content {
    text-align: center; }
