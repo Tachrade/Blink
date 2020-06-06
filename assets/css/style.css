@@ -8550,7 +8550,9 @@
    .table tr th thead {
      background: #F2F6FE;
      border: 0px;
-     vertical-align: middle; }
+     vertical-align: middle;
+    color:#581948;
+   }
      .table tr td:first-child,
      .table tr th:first-child {
        border-top-left-radius: 5px;
