@@ -1,3 +1,11 @@
+
+
+$('#myModal').on('shown.bs.modal', function () {
+    $('#myInput').trigger('focus')
+  });
+
+
+
 //  Preloader
 jQuery(window).on("load", function () {
    /*  $('#preloader').fadeOut(100);  */
