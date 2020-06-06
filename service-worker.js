@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Blink/precache-manifest.c3a533806bf052f69ba4374187776d2d.js"
+  "/Blink/precache-manifest.df7e326e3f8c1a18a301e21fe9fd6800.js"
 );
 
 self.addEventListener('message', (event) => {
