@@ -1,10 +1,8 @@
-
-
-$('#myModal').on('shown.bs.modal', function () {
-    $('#myInput').trigger('focus')
-  });
-
-
+//Datatables
+$(document).ready(function () {
+    $('#sortDataTable').DataTable();
+    $('.dataTables_length').addClass('bs-select');
+    });
 
 //  Preloader
 jQuery(window).on("load", function () {
@@ -13,9 +11,10 @@ jQuery(window).on("load", function () {
 });
 
 
+
+
 (function ($) {
-
-
+     
     //  Header fixed
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
